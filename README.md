@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript that can occur when a function is overloaded. The function `greeter` is defined to accept a string, however passing other data types will result in a type error.  The solution demonstrates how to use type guards to handle different argument types effectively and prevent the error.
